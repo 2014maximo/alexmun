@@ -5,47 +5,36 @@ class SellHeaderHome extends HTMLElement {
       
       connectedCallback () {
         this.innerHTML = `
-        <header>
+        <header class="fixed-top">
     <div id="mySidenav" class="sidenav">
         <a href="javascript:void(0)" class="closebtn text-light fs-70" onclick="closeNav()">&times;</a>
         <div class="espaciado"></div>
         <ul class="list-group text-center">
             <li>
-                <button onclick="openComponent('aboutMe')">Acerca de mi</button>
+                <button class="bg-transparent text-light" onclick="openComponent('aboutMe')">Acerca de mi</button>
             </li>
             <li>
-                <button onclick="openComponent('study')">Estudios</button>
+                <button class="bg-transparent text-light" onclick="openComponent('study')">Estudios</button>
             </li>
             <li>
-                <button onclick="openComponent('skills')">Habilidades</button>
+                <button class="bg-transparent text-light" onclick="openComponent('skills')">Habilidades</button>
             </li>
             <li>
-                <button onclick="openComponent('works')">Trabajos</button>
+                <button class="bg-transparent text-light" onclick="openComponent('works')">Trabajos</button>
             </li>
             <li>
-                <button onclick="openComponent('projects')">Proyectos</button>
+                <button class="bg-transparent text-light" onclick="openComponent('projects')">Proyectos</button>
             </li>
             <li>
-                <button onclick="openComponent('contactMe')">Contáctame</button>
+                <button class="bg-transparent text-light" onclick="openComponent('contactMe')">Contáctame</button>
             </li>
         </ul>
     </div>
-    <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-10">
-            <div class="row">
-                <div id="main" class="text-right w-100">
-
-                    <div class="contain" onclick="myFunction(this)">
-                        <div class="bar1"></div>
-                        <div class="bar2"></div>
-                        <div class="bar3"></div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-        <div class="col-md-1"></div>
+    <div id="main" class="cursor-p" onclick="openNav()">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+    </div>
     </div>
 </header>
     `;
