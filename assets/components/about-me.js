@@ -14,7 +14,7 @@ class SellAboutMe extends HTMLElement {
                 <div class="col-md-6">
                     <h3 class="text-center text-light f-patua-one fs-40">Acerca de mí</h3>
                     <div class="text-center p-3">
-                      <p class="text-light">
+                      <p class="text-light f-bebas">
                       ¡Hola! Soy un apasionado desarrollador frontend, web y mobile con más de 5 años de experiencia en constante evolución. Mi enfoque principal ha sido Angular, donde me he sumergido en su vasto ecosistema, pero no me detengo ahí. Estoy siempre listo para explorar nuevas tecnologías que complementen el mundo del frontend y, ¿por qué no?, aventurarme en el backend también.<br>
                         <br>
                         Mi viaje en el mundo de la informática comenzó a los tiernos 5 años, participando en cursos infantiles llenos de juegos que despertaron mi curiosidad por la tecnología. En aquel entonces, los ordenadores eran un lujo y, siendo parte de una familia humilde, solo podía admirarlos desde lejos mientras trabajaban con el legendario Windows 95.<br>

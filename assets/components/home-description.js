@@ -12,7 +12,7 @@ class SellDescriptionHome extends HTMLElement {
             <div class="row">
                 <div class="col-md-3"></div>
                 <div class="col-md-6">
-                    <h3 class="text-center text-light f-patua-one fs-40">Hola, soy Alex Muñoz pero puedes llamarme
+                    <h3 class="text-center text-light f-bebas fs-90 lh-60">Hola, soy Alex Muñoz pero puedes llamarme
                         Alexmun.<br>
                         Soy desarrollador front-end.</h3>
                     <div class="text-center">
