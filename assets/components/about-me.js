@@ -15,11 +15,13 @@ class SellAboutMe extends HTMLElement {
                     <h3 class="text-center text-light f-patua-one fs-40">Acerca de mí</h3>
                     <div class="text-center p-3">
                       <p class="text-light">
-                        Desarrollador frontend, web y mobile en constante formación desde hace más de 5 años, en mayor parte enfocado a Angular. Tengo mente abierta y disposición a desarrollar en otras tecnologías que hagan parte del frontend como backend de igual manera.<br>
+                      ¡Hola! Soy un apasionado desarrollador frontend, web y mobile con más de 5 años de experiencia en constante evolución. Mi enfoque principal ha sido Angular, donde me he sumergido en su vasto ecosistema, pero no me detengo ahí. Estoy siempre listo para explorar nuevas tecnologías que complementen el mundo del frontend y, ¿por qué no?, aventurarme en el backend también.<br>
                         <br>
-                        Inicie el mundo de la computación a los 5 años en unos cursos infantiles que estaban enfocados a juegos. Debido a que los computadores eran un lujo en ese entonces, mi familia era muy humilde solo me limitaba a admirar los equipos que en esos entonces trabajaban con windows 95.<br>
+                        Mi viaje en el mundo de la informática comenzó a los tiernos 5 años, participando en cursos infantiles llenos de juegos que despertaron mi curiosidad por la tecnología. En aquel entonces, los ordenadores eran un lujo y, siendo parte de una familia humilde, solo podía admirarlos desde lejos mientras trabajaban con el legendario Windows 95.<br>
                         <br>
-                          Gracias al avance tecnológico, el bajo coste de equipos me permitió tener mi primer equipo a los 16 años y poder conocer de cerca los sistemas informáticos.
+                        Con el paso del tiempo y el avance tecnológico, llegó el momento de tener mi propio equipo a los 16 años. Fue entonces cuando pude sumergirme de lleno en el fascinante mundo de los sistemas informáticos y explorar todas sus posibilidades.<br>
+                        <br>
+                        Ahora, aquí estoy, emocionado de seguir aprendiendo y creciendo en este apasionante campo, listo para enfrentar cualquier desafío que se presente en el camino.
                       </p> 
                     </div>
                 </div>
